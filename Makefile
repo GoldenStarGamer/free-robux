@@ -1,2 +1,2 @@
-all: g++
-	-o bin\free-robux src\fork.cpp
+all: 
+	g++ -o bin\free-robux src\fork.cpp
